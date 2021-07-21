@@ -1,6 +1,6 @@
 {
   "name": "test-tagging",
-  "version": "3.0.0-rc.1.0",
+  "version": "3.0.0-rc.1.1",
   "description": "Webcomponent test-tagging following open-wc recommendations",
   "main": "dist/index.js",
   "scripts": {
